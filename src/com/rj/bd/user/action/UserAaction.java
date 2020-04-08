@@ -7,7 +7,7 @@ package com.rj.bd.user.action;
 public class UserAaction {
 
 	public void sayHi(){
-		System.out.println("你好!");
+		System.out.println("sayHi!");
 	}
 }
 	
