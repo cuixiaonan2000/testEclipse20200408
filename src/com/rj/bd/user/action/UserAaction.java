@@ -7,7 +7,7 @@ package com.rj.bd.user.action;
 public class UserAaction {
 
 	public void sayHi(){
-		System.out.println("say!");
-	} 
+		System.out.println("最终结果:傻逼git");
+	}
 }
 	
